@@ -5,3 +5,4 @@ Suddenly, a mysterious figure left behind a clue: a USB drive labeled "TOP SECRE
 Data opened it, only to find encrypted files that hinted at a hidden treasure. 
 When he decrypted the first file, a series of coordinates and a fragmented map emerged, each point marked with a glowing red X. 
 The metadata whispered a single phrase: “The key lies where the light never fades.”
+Intrigued, Data realized the clues pointed to an abandoned lighthouse on the coast—a place long rumored to guard a forgotten cache.
